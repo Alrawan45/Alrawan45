@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**Alrawan45/Alrawan45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm [Rawan !](https://rawan-resume.netlify.app/) 👋
 
-Here are some ideas to get you started:
+- 🌱 I’m currently working on Gatsby and Amazon Web Services.
+- 🔭 I have completed certification as React Developer on [Besant Technologies](https://www.besanttechnologies.com/).
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/mohamed-rawan-4495531aa/) or email me at [alrawanhope@gmail.com](alrawanhope@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/mohamed-rawan-4495531aa/">
+<img align="left" alt="LinkedIn" height='20rem' src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
+</a>
+<a href="mailto:alrawanhope@gmail.com">
+<img align="left" alt="Gmail"  height='17rem' src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" />
+</a>
